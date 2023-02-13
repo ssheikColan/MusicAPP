@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/main_fragment"
+        android:icon="@drawable/ic_baseline_sentiment_satisfied_alt_24"
+        android:title="" />
+
+    <item
+        android:id="@+id/songsFragment"
+        android:icon="@drawable/ic_baseline_music_note_24"
+        android:title="" />
+
+    <item
+        android:id="@+id/albumFragment"
+        android:icon="@drawable/ic_baseline_contacts_24"
+        android:title="" />
+
+    <item
+        android:id="@+id/genresFragment"
+        android:icon="@drawable/ic_baseline_format_align_left_24"
+        android:title="" />
+
+    <item
+        android:id="@+id/folderFragment"
+        android:icon="@drawable/ic_baseline_folder_open_24"
+        android:title="" />
+
+
+</menu>

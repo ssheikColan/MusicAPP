@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_size_xxs">6sp</dimen>
+    <dimen name="text_size_xs">8sp</dimen>
+    <dimen name="text_size_xss">9sp</dimen>
+    <dimen name="text_size_s">10sp</dimen>
+    <dimen name="text_size_m">12sp</dimen>
+    <dimen name="text_size_l">14sp</dimen>
+    <dimen name="text_size_x">16sp</dimen>
+    <dimen name="text_size_xl">18sp</dimen>
+    <dimen name="text_size_xxl">20sp</dimen>
+    <dimen name="text_size_xxxl">22sp</dimen>
+    <dimen name="text_size_jumbo">24sp</dimen>
+    <dimen name="text_size_x_jumbo">30sp</dimen>
+    <dimen name="text_size_xl_jumbo">36sp</dimen>
+
+    <dimen name="space_mini">1dp</dimen>
+    <dimen name="space_xxs">2dp</dimen>
+    <dimen name="space_xs">4dp</dimen>
+    <dimen name="space_s">6dp</dimen>
+    <dimen name="space_xxm">8dp</dimen>
+    <dimen name="space_xm">10dp</dimen>
+    <dimen name="space_m">12dp</dimen>
+    <dimen name="space_l">14dp</dimen>
+    <dimen name="space_xl">16dp</dimen>
+    <dimen name="space_xxl">18dp</dimen>
+    <dimen name="space_xxxl">20dp</dimen>
+    <dimen name="space_jumbo">24dp</dimen>
+    <dimen name="space_x_jumbo">32dp</dimen>
+    <dimen name="space_xl_jumbo">40dp</dimen>
+    <dimen name="space_xxl_jumbo">56dp</dimen>
+
+    <dimen name="header_icon_size">40dp</dimen>
+    <dimen name="border_width">2dp</dimen>
+    <dimen name="divider_width">2px</dimen>
+    <dimen name="divider_height">4px</dimen>
+    <dimen name="profile_pic_size">100dp</dimen>
+    <dimen name="drawer_profile_pic_size">70dp</dimen>
+    <dimen name="row_corner_radius">6dp</dimen>
+    <dimen name="merchant_logo_size">40dp</dimen>
+    <dimen name="top_space_zoom">54dp</dimen>
+    <dimen name="popup_height">60dp</dimen>
+
+    <dimen name="text_small">14dp</dimen>
+    <dimen name="text_medium">18dp</dimen>
+    <dimen name="text_large">22dp</dimen>
+    <dimen name="icon_small">32dp</dimen>
+    <dimen name="icon_medium">48dp</dimen>
+    <dimen name="icon_large">64dp</dimen>
+
+</resources>
